@@ -2,7 +2,7 @@
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
 <h1 align="center">RSSHub</h1>
-
+- 仓库更新点[这里](https://pull.git.ci/process/yuji01/RSSHub)
 > 🍰 Everything is RSSible
 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/rsshub)
